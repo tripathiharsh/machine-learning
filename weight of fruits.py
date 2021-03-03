@@ -1,5 +1,11 @@
-import unittes
+python -m pip install unittest
+python -m pip install sklearn
+
+import unittest
 from main import *
+
+
+
 from sklearn import tree
 
 features=[[120 ],[160],[30]]
