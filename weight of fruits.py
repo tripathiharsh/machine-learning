@@ -1,5 +1,4 @@
-python -m pip install unittest
-python -m pip install sklearn
+
 
 import unittest
 from main import *
